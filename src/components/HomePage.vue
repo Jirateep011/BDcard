@@ -3,7 +3,7 @@
   <div class="home-container">
     <h1 class="title">Special Birthday Card</h1>
     <LottieAnimation
-      animationPath="/src/assets/cake.json"
+      animationPath="/assets/cake.json"
       :loop="true"
       :autoplay="true"
     />

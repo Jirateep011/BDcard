@@ -5,7 +5,7 @@
       <div class="card-front">
         <h2>แด่คนพิเศษ</h2>
         <LottieAnimation
-          animationPath="/src/assets/heart.json"
+          animationPath="/assets/heart.json"
           :loop="true"
           :autoplay="true"
         />
