@@ -69,13 +69,13 @@ export default {
   box-shadow: 0 5px 15px rgba(233, 30, 99, 0.3);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 320px) {
   .button-group {
     flex-direction: row;
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 320px) {
   .home-container {
     padding: 1rem;
   }

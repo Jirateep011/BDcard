@@ -159,7 +159,7 @@ export default {
   transform: scale(1.05);
 }
 
-@media (max-width: 300px) {
+@media (max-width: 320px) {
   .card-container {
     width: 100%;
     height: auto;

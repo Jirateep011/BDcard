@@ -102,7 +102,7 @@ h2 {
   transform: translateY(-3px);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 320px) {
   .gallery-container {
     padding: 1rem;
   }
