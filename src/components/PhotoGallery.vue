@@ -56,7 +56,7 @@ h2 {
 
 .photo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit);
   gap: 1rem;
   margin-bottom: 2rem;
 }
